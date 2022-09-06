@@ -1,0 +1,13 @@
+#RigBtn1{
+    padding-left: 2%;
+
+}
+#createBb{
+    background-color: #ff5a00;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:100%;    
+}

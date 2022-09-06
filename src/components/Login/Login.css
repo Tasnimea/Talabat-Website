@@ -1,0 +1,75 @@
+#gender{
+    position: relative;
+}
+#label1{
+    position: absolute;
+    right: 219%;
+}
+#btnradio1{
+    width: 200px;
+    height: 100px;
+}
+#check1,#check2{
+    padding-left: 15%;
+}
+#sp1{
+    color: green;
+
+}
+#sp2{
+    color: #ff5a00;
+
+}
+#createBt{
+    width: 25%;
+    position: absolute;
+    right: 39%;
+    background-color: #ff5a00;
+    border: none;
+    padding: 1rem;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 300;
+    border-radius: 2%;
+    bottom: 10%;
+}
+#btn1{
+    padding-left: 2%;
+}
+#btn2{
+    padding-left: 1.99%;
+}
+#main{
+    position: relative;
+}
+#img1{
+    position: absolute;
+    left: 41.5%;
+    width: 3.8%;
+    top: 10%;
+}
+#img2{
+    position: absolute;
+    width: 2%;
+    left: 42.4%;
+}
+.btnfacebook{
+    background-color: #5777b9;
+    
+
+}
+#googleIcon{
+    position: absolute;
+    right: 55.5%;
+    top: 24%;
+}
+#createB{
+    background-color: #ff5a00;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:100%;    
+
+}

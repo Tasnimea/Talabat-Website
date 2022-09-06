@@ -1,0 +1,101 @@
+
+.ridge{
+    border-left-style:  solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(230, 238, 238) !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.imgBorder{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgb(230, 238, 238) !important;
+}
+
+
+.styleForTabs{
+    border: none !important;
+}
+
+.nav-tabs .nav-item.show .nav-link{
+    border: none !important;
+}
+
+
+.nav-link:not(:hover) , .nav-link:hover{
+    border: none !important;
+    color: black;
+}
+
+#controlled-tab-example-tab-Menu:not(:hover), #controlled-tab-example-tab-Menu:hover,
+#controlled-tab-example-tab-Reviews:not(:hover), #controlled-tab-example-tab-Reviews:hover,
+#controlled-tab-example-tab-Info:not(:hover), #controlled-tab-example-tab-Info:hover{
+    border: none !important;
+    color:rgb(255, 90, 0);
+    /* font-size: 10rem;
+    padding-left: 2rem; */
+}
+.dd{
+    border-top-style: solid !important;
+    border-color: rgb(230, 238, 238) !important;
+}
+#controlled-tab-example-tab-Menu.nav-link.active,
+#controlled-tab-example-tab-Reviews.nav-link.active,
+#controlled-tab-example-tab-Info.nav-link.active{
+    border: none !important;
+    border-bottom: 3px solid  rgb(255, 90, 0)!important;
+}
+
+.pagination>li>a, .pagination>li>span {
+    border-color:  rgb(255, 90, 0);
+    color: black;
+}
+.pagination>li>a:hover{
+    color: white;
+    background-color: #ff5a00;
+}
+.pagination>li>a:active{
+    color: white;
+    background-color: rgb(255, 90, 0);
+}
+.cardBorder{
+
+    border:none !important;
+}
+.back:hover{
+color: orange !important;
+}
+
+.searchStyle{
+    border-radius: 0 !important;
+    border-style: ridge !important;
+}
+.searchStyle:hover , .searchStyle:active{
+    border:ridge !important;
+    border-color: orange !important;
+    box-shadow:none!important;
+  
+}
+
+
+.card-body{
+    border-radius:0% !important;
+}
+
+.filterBTN{
+border: none !important;
+margin:0 ;
+padding: 0;
+}
+
+
+
+.filterBTN:active , .filterBTN:hover , .filterBTN{
+        border: none !important;
+
+}
+
+.lineHeight{
+    line-height: 1.5;
+}

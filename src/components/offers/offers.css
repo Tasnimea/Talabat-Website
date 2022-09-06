@@ -1,0 +1,43 @@
+/* <button type="button" id="fill-tab-example-tab-profile" role="tab" data-rr-ui-event-key="profile" aria-controls="fill-tab-example-tabpane-profile" aria-selected="true" class="nav-link active">Profile</button> */
+
+#fill-tab-example-tab-profile,#fill-tab-example-tab-home{
+    border: none !important;
+
+} 
+
+
+
+
+#fill-tab-example-tab-profile.nav-link.active , #fill-tab-example-tab-home.nav-link.active{
+
+    border-bottom: 3px solid  #FF5A00!important;
+    
+
+}
+
+
+
+
+
+.bordershadow{
+
+    border-left-style:  solid;
+
+    border-right-style: solid;
+
+    border-bottom-style: solid;
+
+    border-width: 1px;
+
+    border-color: rgb(230, 238, 238) !important;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+
+
+
+ } 
+.borderpig{
+    border: 1px solid #FF5A00!important;
+}
+
+

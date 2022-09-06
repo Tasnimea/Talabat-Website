@@ -1,0 +1,22 @@
+.Orangebg{ background-color: #ff5a00; color: white;}
+.hovering:hover{background-color: #FF9459;}
+#h1,i,label,p{
+    color: black;
+}
+#googleIcons {
+    position: absolute;
+    right: 65.5%;
+    top: 24%;
+}
+#btnn1{
+    width: 40%;
+}
+#btnn2 {
+    padding-left: 3.99%;
+}
+#imgg2 {
+    position: absolute;
+    width: 5%;
+    left: 30.4%;
+    top: 25.5%;
+}

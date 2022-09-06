@@ -1,0 +1,21 @@
+.Orange{ background-color: #ff5a00; color: white;}
+
+.Orange:hover{background-color: #FF9459;}
+
+.OrangeBtn{ padding: 0.7rem 2rem;}
+
+.Explore{color:#ff5a00;
+  cursor: pointer;
+  text-decoration: none;
+}
+.icon {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 20px;
+  }
+
+
+.cardoooo{
+  
+  padding: 0;
+}
